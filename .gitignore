@@ -1,7 +1,9 @@
 node_modules
 dist
+.bowerrc
 .tmp
 .sass-cache
 bower_components
+bower.json
 css
 html
