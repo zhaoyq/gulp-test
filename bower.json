@@ -1,0 +1,22 @@
+{
+  "name": "testtool",
+  "version": "0.0.1",
+  "authour": [],
+  "description": "testtool",
+  "keywords": "testtool",
+  "private": true,
+  "dependencies": {
+    "jquery": "^1.11.3",
+    "seajs": "^3.0.0",
+    "seajs-text": "git://github.com/seajs/seajs-text.git#1.1.1",
+    "seajs-css": "git://github.com/seajs/seajs-css.git",
+    "html5shiv":"^3.7.2",
+    "es5-shim":"^4.1.6",
+    "normalize.css": "^3.0.3"
+    "json3.min": "http://bestiejs.github.com/json3/lib/json3.min.js"
+  },
+  "devDependencies": {
+    "bootstrap": "^4.0.0"
+  },
+  "appPath": "app"
+}

@@ -1,0 +1,23 @@
+/*
+* @description: 布局
+* @author: zhaoyanqing
+* @createdDate: 2015-12-16
+*/
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+.wrap {
+  position: relative;
+  min-width: $wrap-width;
+  min-height: 100%;
+}
+.container {
+  padding-bottom: 75px;
+  @include clearfix();
+  .content {
+    padding: $padding-md $padding-lg;
+    overflow: hidden;
+  }
+}

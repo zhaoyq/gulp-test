@@ -1,0 +1,18 @@
+// Core variables and mixins
+@import "core/variables";
+@import "core/mixins";
+
+//reset
+@import "core/component/normalize";
+
+//core css
+
+
+//布局
+@import "core/component/header";
+@import "core/component/layout";
+@import "core/component/footer";
+@import "core/component/sidebar";
+
+@import "core/component/utilities";
+
