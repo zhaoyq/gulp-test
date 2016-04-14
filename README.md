@@ -1,5 +1,5 @@
 # 运行项目
-# 需安装最新版的node.js
+需安装最新版的node.js
 
 npm install -g bower
 npm install -g gulp
