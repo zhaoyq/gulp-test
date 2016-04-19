@@ -10,7 +10,7 @@ npm config set registry https://registry.npm.taobao.org
 ```
 npm install -g gulp
 ```
-//在项目根目录下运行
+在项目根目录下运行
 ```
 npm install
 ```
