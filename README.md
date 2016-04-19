@@ -4,6 +4,7 @@
 ```
 npm config set registry https://registry.npm.taobao.org 
 ```
+安装完成后将命令中的npm改成cnpm即可
 
 # 运行项目
 需安装最新版的node.js
