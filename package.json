@@ -12,6 +12,7 @@
     "gulp-cache": "^0.2.8",
     "gulp-ejs": "^1.2.2",
     "gulp-eslint": "^0.13.2",
+    "gulp-filter": "^4.0.0",
     "gulp-if": "^1.2.5",
     "gulp-imagemin": "^2.2.1",
     "gulp-load-plugins": "^0.10.0",
